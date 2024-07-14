@@ -435,9 +435,6 @@ footer p{
 }
 
 @media screen and (max-width: 1800px) {
-    .home{
-        margin-top:150px;
-    }
     .about{
         flex-direction: column;
         text-align: center;
@@ -456,9 +453,6 @@ footer p{
     }
     .projects .list .item{
         margin-bottom: 20px ;
-    }
-    .contact{
-        flex-direction: column;
     }
 }
 @media screen  and (max-width:1080px) {
@@ -517,5 +511,8 @@ footer p{
     .contact .contact-text p{
         width:auto;
         margin:10px;
+    }
+    .contact{
+        flex-direction: column;
     }
 }
