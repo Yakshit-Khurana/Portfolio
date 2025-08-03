@@ -444,6 +444,7 @@ footer p{
     }
     .about p{
         padding: 5px;
+        margin: 0px 150px;
     }
     .about img{
         width: 500px;
@@ -516,3 +517,4 @@ footer p{
         flex-direction: column;
     }
 }
+
