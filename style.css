@@ -209,6 +209,7 @@ body{
     font-family: "EB Garamond", serif;
     font-optical-sizing: auto;
     font-weight: 500;
+    margin: 0;
 }
 .about-text p>span{
     font-style: italic;
@@ -518,6 +519,7 @@ footer p{
         flex-direction: column;
     }
 }
+
 
 
 
