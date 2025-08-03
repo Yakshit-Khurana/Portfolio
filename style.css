@@ -189,6 +189,9 @@ body{
     margin-bottom: 50px;
     padding-top: 50px;
 }
+.about p{
+    margin: 0;
+}
 .about-text h1{
     font-size: 60px;
 }
@@ -519,6 +522,7 @@ footer p{
         flex-direction: column;
     }
 }
+
 
 
 
