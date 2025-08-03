@@ -189,9 +189,7 @@ body{
     margin-bottom: 50px;
     padding-top: 50px;
 }
-.about p{
-    margin: 0 0;
-}
+
 .about-text h1{
     font-size: 60px;
 }
@@ -460,7 +458,9 @@ footer p{
     .projects .list .item{
         margin-bottom: 20px ;
     }
+}
 
+@media screen and (max-width: 1080px) {
     *{
         overflow-x: hidden;
     }
@@ -470,6 +470,9 @@ footer p{
     .home{
         background-image: url();
         background-color: #081b29;
+    }
+    .about p{
+        margin: 0 0;
     }
     .about img{
         width:200px;
