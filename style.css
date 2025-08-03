@@ -420,6 +420,7 @@ body{
 footer{
     width:100%;
     background-color: #347e88;
+    margin: 30px;
 }
 footer p{
     vertical-align:middle;
@@ -517,4 +518,5 @@ footer p{
         flex-direction: column;
     }
 }
+
 
