@@ -1,5 +1,5 @@
 var typed=new Typed(".text",{
-    strings:["Frontend Developer","Web Developer"],
+    strings:["Full Stack Developer","Web Developer","Software Engineer"],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
@@ -57,3 +57,4 @@ document.addEventListener('DOMContentLoaded', function () {
 //         console.log('Message:', message);
 //     });
 // });
+
